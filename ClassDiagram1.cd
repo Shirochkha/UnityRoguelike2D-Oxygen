@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BoardManager" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="BoardManager.Count" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\_MyGame\Scripts\BoardManager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAABAwI8AAAAACABACAAAAAAAAQAADAAUACCICAA=</HashCode>
+      <FileName>Assets\_MyGame\Scripts\BoardManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Door" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_MyGame\Scripts\Door.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy" Collapsed="true">
+    <Position X="14.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAACAAAACAAAAAAoEAACAAAAAAAQAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Assets\_MyGame\Scripts\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManager" Collapsed="true">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACZAgAAIABAAAAACAAAIQAAAAAFAAAJJAAAAAQBAAEg=</HashCode>
+      <FileName>Assets\_MyGame\Scripts\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Loader" Collapsed="true">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\_MyGame\Scripts\Loader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenu" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAEAABACAQACAAAAAAEAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\_MyGame\Scripts\MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovingObject" Collapsed="true">
+    <Position X="13" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAKgAAAAAgABAAACAAACAAAAAAAgAAAAAAIA=</HashCode>
+      <FileName>Assets\_MyGame\Scripts\MovingObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PauseMenu" Collapsed="true">
+    <Position X="11.25" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQgAABAACAAgAAAAAAEAIAAAAAAAAAgAAAAAAgAAAA=</HashCode>
+      <FileName>Assets\_MyGame\Scripts\PauseMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player" Collapsed="true">
+    <Position X="12" Y="3.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>FAQIAAAAICAaCCAAgAAAAAAAAEAAAQAIICgAADAIAAA=</HashCode>
+      <FileName>Assets\_MyGame\Scripts\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestartMenu" Collapsed="true">
+    <Position X="13" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EARAAAAAACAAAAAAAAAEAIAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_MyGame\Scripts\RestartMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoundManager" Collapsed="true">
+    <Position X="14.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAARAIAAAAAAACAAKQABAAAABAAAAAAAAAAAAAIEA=</HashCode>
+      <FileName>Assets\_MyGame\Scripts\SoundManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StateRandom" Collapsed="true">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_MyGame\Scripts\StateRandom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wall" Collapsed="true">
+    <Position X="11.25" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AACAwAAAAAAAACAAAAAAAAAAAAAgAAAIAABAAAAAAEA=</HashCode>
+      <FileName>Assets\_MyGame\Scripts\Wall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

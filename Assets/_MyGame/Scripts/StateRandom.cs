@@ -1,0 +1,10 @@
+﻿using UnityEngine;
+public class StateRandom : StateMachineBehaviour
+{
+	//Idle анимация слима.
+	static int AnimatorRandom = Animator.StringToHash("Random");
+	override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
+	{
+		animator.SetFloat(AnimatorRandom, Random.Range(0f, 1f));
+	}
+}
